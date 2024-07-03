@@ -16,18 +16,18 @@ header h1 {
   margin: 0;
 }
 
-nav ul {
+navbar ul {
   margin-left:70%;
   list-style: none;
   padding: 0;
 }
 
-nav ul li {
+navbar ul li {
   display: inline;
   margin: 0 1rem;
 }
 
-nav ul li a {
+navbar ul li a {
   color: #fff;
   text-decoration: none;
 }
